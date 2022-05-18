@@ -1,0 +1,6 @@
+customhost = "emprds-123.cosuiortkv8h.us-east-2.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Pranjali123"
+customdb = "employee"
+custombucket = "myprobuck"
+customregion = "us-east-2"
